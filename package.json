@@ -1,0 +1,19 @@
+{
+  "name": "sql-injection-activity",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+		"body-parser": "1.15.0",
+		"errorhandler": "1.4.3",
+		"express": "4.13.4",
+		"sqlite3": "^5.0.2"
+	},
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
